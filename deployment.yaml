@@ -30,3 +30,4 @@ spec:
           persistentVolumeClaim:
             claimName: postgres-pvc
 # psql -h 172.16.10.101 -U postgresadmin --password -p 30080 postgresdb
+#abc
